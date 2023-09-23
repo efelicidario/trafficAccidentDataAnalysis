@@ -1,10 +1,15 @@
 # Traffic Accident Encyclopedia
 Final Project by Edmund Felicidario, Carlos Hernandez, Patrick Park, Juan Sierra Diaz
 
-## Data analysis program in Python that reads a .csv file, processes, organizes, and displays the data to the user.
+## Data analysis program in Python that parses 700,000+ lines of data and organizes and displays inquiry to the user.
 
 For this project, we were given a 700,000+ line .csv file of real traffic accidents in the United States from 2016 to 2021.
-Our objective was to write a program that was easy to read and navigate with useful comments, minimal errors, and optimal runtimes.
+Objectives: 
+- write a program that's easy to read and navigate
+- useful comments
+- minimal errors
+- optimal runtimes
+
 Our group's workflow was to first load and process the data using the 'Pandas' library in Python and test our program with smaller data sets before loading in our real data set. The main focus was basic functionality and reliability. 
 After we had processed and organized the data, we began implementing Question and Search functions to allow the user to find that necessary information from the .csv file in a quick and efficient manner.
 Once question and search functions were completed, we began working on the user interface development, formatting, and error handling.
@@ -25,15 +30,14 @@ Once question and search functions were completed, we began working on the user 
 	- accepts blank input
 	- accepts any combination of capital letters
 	- rejects strings with numbers
-	
-There were a total of 10 function implementations regarding the questions as requested by the instructor. The method to answer the questions was similar for most of the functions that we implemented.
 
 ### General Logic - Question functions
 	- function takes as parameter the dataframe
 	- filter original datafram into a temporary dataframe containing information needed
 	- works with the temp dataframe to obtain the answer
 	- format the answer in a nice and clean way to print
-		
+There were a total of 10 function implementations regarding the questions as requested by the instructor. The method to answer the questions was similar for most of the functions that we implemented.
+
 ### Conclusion
 	- 'pandas' is an amazing data science library
 	- optimizing runtimes was more difficult than expected
