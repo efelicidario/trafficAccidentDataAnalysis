@@ -42,7 +42,7 @@ There were a total of 10 function implementations regarding the questions as req
 	- 'pandas' is an amazing data science library
 	- optimizing runtimes was more difficult than expected
 	- there is a lot to consider for error handling
-	- using a smaller data set can speed up testing]
-		- drawbacks include lack of data to test
+	- using a smaller data set can speed up testing
+	- drawbacks include lack of data to test
 	- comments are very helpful in group project environments
 	- communication can prevent merge conflicts
