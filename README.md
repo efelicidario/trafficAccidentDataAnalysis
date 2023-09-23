@@ -1,7 +1,7 @@
 # Traffic Accident Encyclopedia
 Final Project by Edmund Felicidario, Carlos Hernandez, Patrick Park, Juan Sierra Diaz
 
-## Basic data analysis program in Python that reads a .csv file, processes, organizes, and displays the data to the user.
+## Data analysis program in Python that reads a .csv file, processes, organizes, and displays the data to the user.
 
 For this project, we were given a 700,000+ line .csv file of real traffic accidents in the United States from 2016 to 2021.
 Our objective was to write a program that was easy to read and navigate with useful comments, minimal errors, and optimal runtimes.
